@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    margin: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #a8e3ff;
+
+}
+
+.form-group {
+    align-items: center;
+}
+
+.cajadoble {
+    display: inline-block;
+    align-items: center;
+}
+#especialidadin {
+    text-align: center;
+    background-color: #fbf5f4; 
+}
+
+.form-control {
+    text-align: center;
+    background-color: #fbf5f4; 
+
+}
+
+hr {
+    border-color: dodgerblue;
+       
+}
+
+h1, h5, p {
+    font-family: 'Heebo', sans-serif;
+    color: #ffffff;   
+}
+
+h1 {
+    background-color: dodgerblue;
+}
+
+h5 {
+    font-family: 'Heebo', sans-serif;
+    color: #ffffff;
+    font-weight: lighter;
+}
+
+#tituloreserv {
+    text-align: center;
+}
+
+#botonin {
+    margin: 2rem 0 1rem 0 ;
+}
+
+#mensajecss {
+    background-color: dodgerblue;
+    color: #ffffff;
+    font-weight: lighter;
+}
